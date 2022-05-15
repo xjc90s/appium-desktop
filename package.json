@@ -1,6 +1,6 @@
 {
   "name": "appium-desktop",
-  "version": "1.22.3-3",
+  "version": "1.22.3-4",
   "description": "Graphical interface for the Appium server, and an app inspector",
   "repository": {
     "type": "git",
@@ -115,7 +115,7 @@
   },
   "dependencies": {
     "ansi-to-html": "~0.7.2",
-    "antd": "~4.16.1",
+    "antd": "~4.20.5",
     "appium": "1.22.3",
     "appium-support": "^2.25.0",
     "bluebird": "^3.5.5",
